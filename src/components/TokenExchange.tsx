@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
-import { ArrowUpDown, TrendingUp, Shield, RefreshCw, ExternalLink, AlertCircle, Check } from "lucide-react";
+import { ArrowUpDown, TrendingUp, Shield, RefreshCw, ExternalLink, AlertCircle, Check, Brain } from "lucide-react";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 
 const TokenExchange = () => {

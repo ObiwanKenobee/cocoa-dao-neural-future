@@ -1,6 +1,5 @@
-
 import { Button } from "@/components/ui/button";
-import { Brain, BookOpen, TrendingUp, Search } from "lucide-react";
+import { Brain, BookOpen, TrendingUp, Search, GraduationCap } from "lucide-react";
 
 const HeroSection = () => {
   return (
